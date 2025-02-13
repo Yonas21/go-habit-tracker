@@ -2,7 +2,7 @@
 
 1. Clone the repository
 2. Run `docker-compose up` or
-# if you don't want to see any logs and run in detached mode
+### if you don't want to see any logs and run in detached mode
 3. Run `docker-compose up -d` 
 ## Test using Postman
 
